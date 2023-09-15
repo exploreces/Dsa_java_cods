@@ -1,5 +1,5 @@
 public class containingMostWater {
-
+// 2 pointers
 
     /*
      * You are given an integer array height of length n. There are n vertical lines drawn such that the two

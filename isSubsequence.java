@@ -1,4 +1,5 @@
 public class isSubsequence {
+// 2 pointers
 
 /*Input: s = "abc", t = "ahbgdc"
 Output: true
